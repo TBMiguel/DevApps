@@ -1,2 +1,2 @@
 # DevApps
-Repositório para Aulas
+Repositório para Aulas De Desenvolvimento de Aplicações I
